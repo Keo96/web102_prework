@@ -24,7 +24,7 @@ I implemented a search functionality.
 
 Here's a walkthrough of implemented features:
 
-<img src="web102_prework/assets/Web102Gif.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="assets/Web102Gif.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
